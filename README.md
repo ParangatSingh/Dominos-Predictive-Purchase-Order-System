@@ -20,7 +20,8 @@ This project focuses on forecasting the ingredients needed for pizzas using hist
   These features are intended to improve the predictive performance of the model.
 
 ### **3. Model Training**
-- Train the ARIMA model using historical sales data to forecast future ingredient needs.
+- Model used-Arima, Sarima, LSTM, Prophet, Regression
+- Best model was Sarima in terms of accuracy and F1 score.
 - Optimize model parameters to enhance prediction accuracy and reliability.
 
 ### **4. Model Evaluation**
